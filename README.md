@@ -26,19 +26,18 @@ This is a simple and intuitive To-Do application designed for easy task manageme
 ## Screenshots
 ### 1. Home Screen
 - A blank white screen with a floating **Plus (+)** button.
-  ![Home Screen](application%20interface/home_screen.jpg)
+
 
 ### 2. Add Task Pop-Up
 - A pop-up screen to enter the task details and confirm by clicking the **Done** button.
-  ![Add Task](application%20interface/addingtask.jpg)
+
 
 ### 3. Task List
 - A list of tasks displayed on the home screen.
-    ![Task List](application%20interface/home_screen.jpg)
 
 ### 4. Delete Task
 - Long-press on a task to remove it from the list.
-    ![Delete Task](application%20interface/deletegif.gif)
+
 
 
 
