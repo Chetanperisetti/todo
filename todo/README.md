@@ -38,7 +38,7 @@ This is a simple and intuitive To-Do application designed for easy task manageme
 
 ### 4. Delete Task
 - Long-press on a task to remove it from the list.
-    ![Delete Task](application%20interface/deletetask.mp4)
+    ![Delete Task](application%20interface/deletegif.gif)
 
 
 
